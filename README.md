@@ -1,7 +1,7 @@
 machineops
 ==============================
 
-machineops testing project
+machineops test project
 
 Project Organization
 ------------
